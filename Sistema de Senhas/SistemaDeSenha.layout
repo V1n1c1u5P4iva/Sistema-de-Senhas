@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="main.c" Top="Yes" Tabpos="1" TopLine="1">
+			<Cursor Line="40" Column="41"/>
+		</File>
+		<File Name="sistema_senha.c" Top="No" Tabpos="2" TopLine="32">
+			<Cursor Line="4" Column="27"/>
+		</File>
+		<File Name="sistema_senha.h" Top="No" Tabpos="3" TopLine="1">
+			<Cursor Line="15" Column="1"/>
+		</File>
+	</Files>
+</Layout>
